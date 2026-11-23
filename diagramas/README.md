@@ -74,6 +74,6 @@ Os caminhos A3, A4 e A5 são caminhos excepcionais distintos para fins de cobert
 
 ## 4. Arquivos
 
-- `abrirConexao.png` e `autenticar.png`: imagens para inserir no README principal do trabalho.
+- `abrirConexao.png` e `autenticar.png`
 - `abrirConexao.dot` e `autenticar.dot`: fontes editáveis Graphviz. Para regenerar: `dot -Tpng abrirConexao.dot -o abrirConexao.png` e `dot -Tpng autenticar.dot -o autenticar.png`.
 
