@@ -1,0 +1,10 @@
+$ javac -d testes/classes revisado/AutenticacaoRevisada.java testes/TesteAutenticacao.java
+$ java -cp testes/classes TesteAutenticacao
+[PASSOU] login válido
+[PASSOU] usuário não encontrado
+[PASSOU] entrada vazia não abre conexão
+[PASSOU] falha de conexão é propagada
+[PASSOU] estado anterior é resetado
+[PASSOU] falha SQL é propagada
+
+Resumo: 6 passaram; 0 falharam.
